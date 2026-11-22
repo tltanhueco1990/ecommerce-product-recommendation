@@ -1,0 +1,8 @@
+# Initial dependencies observed in the current project notebook.
+# Pin exact versions after the project environment is finalized.
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
